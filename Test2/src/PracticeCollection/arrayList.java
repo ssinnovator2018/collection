@@ -19,5 +19,6 @@ public static void main(String[] args) {
 	{
 		System.out.println(a.get(m));
 	}
+	System.out.println("Added modifications");
 }
 }
